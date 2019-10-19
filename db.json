@@ -1,0 +1,103 @@
+{
+    "data": {
+      "avatar": "https://www.facebook.com/photo.php?fbid=150026222834560&set=pb.100034815500644.-2207520000.1571417869.&type=3&theater",
+      "name": "Gerardo Escalier",
+      "profession": "Ingeniero Administrador de Sistemas",
+      "bio": " Dar la mejor calidad y empeño, así como aplicar el conocimiento adquirido día con día logrando el éxito en el desarrollo de mi trabajo con profecionalismo, eficiencia, ética y honestidad con el propósito del crecimiento de la empresa, basándome en los objetivos de la misma para alcanzar las metas propuestas",
+      "address": "Monterrey, Nuevo León.",
+      "social": {
+        "0": {
+          "name": "facebook",
+          "url": "https://facebook.com/gerardoescalier2"
+        },
+        "1": {
+          "name": "twitter",
+          "url": "https://twitter.com/escalier22"
+        },
+        "2": {
+          "name": "github",
+          "url": "https://github.com/escalier22"
+        },
+        "3": {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/gerardo-escalier-148698103"
+        }
+      },
+      "experience": {
+        "0": {
+          "jobTitle": "Analista de Operaciones B",
+          "company": "Grupo Financiero Banorte",
+          "startDate": "Agu 2002",
+          "endDate": "Presente",
+          "jobDescription": "Atender las solicitudes de soporte de la red de sucursales en cuanto a necesidades de capacitación, orientación, soporte, falta de funcionalidad, nuevos productos, incidencias, normativas etc., con la finalidad de apoyar a la sucursal en la atención del servicio que ofrecen a su clientes, o en su caso apoyo en la operación de sus procesos de inicio y cierre de sucursal, lo anterior apegándose siempre en las políticas y procedimientos establecidos en la Normativa Institucional"
+        }
+      },
+      "education": {
+        "0": {
+          "degree": "Ingeniero Administrador de Sistemas con orientación en Arquitectura de Redes y Capital Humano",
+          "institution": "UANL",
+          "startDate": "Jan 2004",
+          "endDate": "Dec 2009",
+          "description": "Integrar oluciones para las entidades empresariales, educativas y de servicio. Diseñando, desarrollando, implementando y optimizando los sistemas de información para el control y la toma de decisiones, bajo diferentes plataformas operativas, haciendo uso de teleprocesamiento de la información, administrando y procesando la misma"
+        }
+      },
+      "certificate": {
+        "0": {
+          "name": "Prevención de Lavado de Dinero y Financiamiento al Terrorismo 4.1",
+          "institution": "Asociación de Bancos de México",
+          "date": "Abr 2019",
+          "description": "Distinguir los riesgos latentes a los que se enfrenta México, así como la importancia en la lucha de lavado de dinero y el financiamiento al terrorismo a partir de una base de conocimientos que sustente una cultura de prevención"
+        },
+        "1": {
+          "name": "Programa Cinta Blanca",
+          "institution": "Dev.F",
+          "date": "Sep 2019",
+          "description": "Crear tu propio sitio web y conocer los conceptos fundamentales de la programación"
+        },
+        "2": {
+          "name": "Programa Cinta Roja",
+          "institution": "Dev.F",
+          "date": "Oct 2019",
+          "description": "Desarrollar aplicaciones web robustas utilizando la arquitectura Cliente-Servidor"
+        },
+        "3": {
+          "name": "Intro to Cybersecurity ES 0417",
+          "institution": "Cisco Networking Academy",
+          "date": "Jun 2018",
+          "description": "Aprender que es la Cyberseguridad, conocer las amanezas-ataques-vulnerabilidades, obtener información sobre como las empressas protegen sus operaciones de los ataques"
+        },
+        "4": {
+            "name": "Intro to IoE español 0417 m",
+            "institution": "Cisco Networking Academy",
+            "date": "Jun 2018",
+            "description": "Ver cómo la transformación digital actual está creando oportunidades económicas sin precedentes, Entender cómo Internet de las cosas (IoT) está cerrando la brecha entre los sistemas operativos y los de tecnología de la información, Descubrir cómo se están transformando los procesos empresariales estándar, Conocer las inquietudes de seguridad que deben tenerse en cuenta al implementar soluciones de IoT"
+          }
+      },
+      "skills": {
+        "0": {
+          "name": "HTML5",
+          "percentage": "50%"
+        },
+        "1": {
+          "name": "CSS",
+          "percentage": "50%"
+        },
+        "2": {
+          "name": "JavaScript",
+          "percentage": "40%"
+        },
+        "3": {
+          "name": "React",
+          "percentage": "40%"
+        },
+        "4": {
+            "name": "Microsoft Office",
+            "percentage": "90%"
+        },  
+        "5": {
+            "name": "Packet Tracer",
+            "percentage": "90%"
+        }
+        }  
+      }
+    }
